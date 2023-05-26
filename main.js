@@ -12,10 +12,15 @@ $html.addEventListener("input", update)
 
 function init() {
     const { pathname } = window.location
-    const [html, css, js] = pathname.slice(1).split('%7C')
-    $html.value = window.atob(html)
-    $css.value = window.atob(css)
-    $js.value = window.atob(js)
+    
+    const [rawHtml, rawCss, rawJs] = pathname.slice(2).split('%7C')
+
+    $html.value = window.atob(rawHtml)
+    $css.value = window.atob(rawCss)
+    $js.value = window.atob(rawJs)
+
+    const htmlPreview = createHtml({js, html, css})
+    $("iframe").setAttribute("srcdoc", htmlPreview)
 }
 
 function update () {
@@ -24,7 +29,7 @@ function update () {
     const css = $css.value
 
     const hashedCode = `${window.btoa(html)}|${window.btoa(css)}|${window.btoa(js)}`
-    window.history.replaceState(null, null, `/${hashedCode}`)
+    window.history.replaceState(null, null, `/Provant/${hashedCode}`)
     
     const htmlPreview = createHtml({js, html, css})
     $("iframe").setAttribute("srcdoc", htmlPreview)
