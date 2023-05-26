@@ -14,6 +14,8 @@ function init() {
     const { pathname } = window.location
     
     const [rawHtml, rawCss, rawJs] = pathname.slice(2).split('%7C')
+    
+    console.log(rawHtml)
 
     $html.value = window.atob(rawHtml)
     $css.value = window.atob(rawCss)
