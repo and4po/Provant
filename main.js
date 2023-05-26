@@ -1,6 +1,18 @@
 // import "./style.css"
+import Split from "https://cdn.jsdelivr.net/npm/split-grid@1.0.11/+esm";
 
 const $ = selector => document.querySelector(selector)
+
+Split({
+	columnGutters: [{
+    track: 1,
+    element: document.querySelector('.vertical-gutter'),
+  }],
+  rowGutters: [{
+  	track: 1,
+    element: document.querySelector('.horizontal-gutter'),
+  }]
+})
 
 const $js = $('#js')
 const $css = $('#css')
@@ -12,10 +24,8 @@ $html.addEventListener("input", update)
 
 function init() {
     const { pathname } = window.location
-    
-    const [rawHtml, rawCss, rawJs] = pathname.slice(2).split('%7C')
-    
-    console.log(rawHtml)
+
+    const [rawHtml, rawCss, rawJs] = pathname.slice(1).split('%7C')
 
     $html.value = window.atob(rawHtml)
     $css.value = window.atob(rawCss)
@@ -31,7 +41,7 @@ function update () {
     const css = $css.value
 
     const hashedCode = `${window.btoa(html)}|${window.btoa(css)}|${window.btoa(js)}`
-    window.history.replaceState(null, null, `/Provant/${hashedCode}`)
+    window.history.replaceState(null, null, `${hashedCode}`)
     
     const htmlPreview = createHtml({js, html, css})
     $("iframe").setAttribute("srcdoc", htmlPreview)

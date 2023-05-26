@@ -8,13 +8,7 @@
     <title>Code Playground</title>
 </head>
 <body>
-    <div id="app" class="app">
-        <!-- <form onsubmit="download(this['name'].value, this['text'].value)">
-            <input type="text" name="name" value="test.txt">
-            <textarea name="text"></textarea>
-            <input type="submit" value="Download">
-        </form> -->
-        <section>
+    <div id="app" class="grid">
             <div>
                 <textarea id="html" placeholder="Codi html..."></textarea>
             </div>
@@ -30,10 +24,18 @@
             <div>
                 <iframe srcdoc="<h1>Hola!</h1>"></iframe>
             </div>
+
+            <div class="horizontal-gutter"></div>
+            <div class="vertical-gutter"></div>
             
-        </section>
     </div>
 
     <script type="module" src="./main.js"></script>
 </body>
 </html>
+
+        <!-- <form onsubmit="download(this['name'].value, this['text'].value)">
+            <input type="text" name="name" value="test.txt">
+            <textarea name="text"></textarea>
+            <input type="submit" value="Download">
+        </form> -->
