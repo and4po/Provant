@@ -1,0 +1,12 @@
+[
+    {
+        "nom": "Nombres Aleatoris",
+        "descr": "Generador de nombres aleatoris sense repetició.",
+        "link": "https://and4po.github.io/random"
+    },
+    {
+        "nom": "Citacions",
+        "descr": "Generador de citacions de personatges famosos o històrics",
+        "link": "https://and4po.github.io/dev/quotes"
+    }
+]
