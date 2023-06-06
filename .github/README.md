@@ -1,1 +1,1 @@
-../Instruccions.txt
+../Instruccions.md
