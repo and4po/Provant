@@ -1,0 +1,474 @@
+[
+    {
+      "Nom": "Hidrogen",
+      "Símbol": "H"
+    },
+    {
+      "Nom": "Heli",
+      "Símbol": "He"
+    },
+    {
+      "Nom": "Liti",
+      "Símbol": "Li"
+    },
+    {
+      "Nom": "Beril·li",
+      "Símbol": "Be"
+    },
+    {
+      "Nom": "Bor",
+      "Símbol": "B"
+    },
+    {
+      "Nom": "Carboni",
+      "Símbol": "C"
+    },
+    {
+      "Nom": "Nitrogen",
+      "Símbol": "N"
+    },
+    {
+      "Nom": "Oxigen",
+      "Símbol": "O"
+    },
+    {
+      "Nom": "Fluor",
+      "Símbol": "F"
+    },
+    {
+      "Nom": "Neó",
+      "Símbol": "Ne"
+    },
+    {
+      "Nom": "Sodi",
+      "Símbol": "Na"
+    },
+    {
+      "Nom": "Magnesi",
+      "Símbol": "Mg"
+    },
+    {
+      "Nom": "Alumini",
+      "Símbol": "Al"
+    },
+    {
+      "Nom": "Silici",
+      "Símbol": "Si"
+    },
+    {
+      "Nom": "Fòsfor",
+      "Símbol": "P"
+    },
+    {
+      "Nom": "Sofre",
+      "Símbol": "S"
+    },
+    {
+      "Nom": "Clor",
+      "Símbol": "Cl"
+    },
+    {
+      "Nom": "Argó",
+      "Símbol": "Ar"
+    },
+    {
+      "Nom": "Potassi",
+      "Símbol": "K"
+    },
+    {
+      "Nom": "Calci",
+      "Símbol": "Ca"
+    },
+    {
+      "Nom": "Escandi",
+      "Símbol": "Sc"
+    },
+    {
+      "Nom": "Titani",
+      "Símbol": "Ti"
+    },
+    {
+      "Nom": "Vanadi",
+      "Símbol": "V"
+    },
+    {
+      "Nom": "Crom",
+      "Símbol": "Cr"
+    },
+    {
+      "Nom": "Manganès",
+      "Símbol": "Mn"
+    },
+    {
+      "Nom": "Ferro",
+      "Símbol": "Fe"
+    },
+    {
+      "Nom": "Cobalt",
+      "Símbol": "Co"
+    },
+    {
+      "Nom": "Níquel",
+      "Símbol": "Ni"
+    },
+    {
+      "Nom": "Coure",
+      "Símbol": "Cu"
+    },
+    {
+      "Nom": "Zinc",
+      "Símbol": "Zn"
+    },
+    {
+      "Nom": "Gal·li",
+      "Símbol": "Ga"
+    },
+    {
+      "Nom": "Germani",
+      "Símbol": "Ge"
+    },
+    {
+      "Nom": "Arsènic",
+      "Símbol": "As"
+    },
+    {
+      "Nom": "Seleni",
+      "Símbol": "Se"
+    },
+    {
+      "Nom": "Brom",
+      "Símbol": "Br"
+    },
+    {
+      "Nom": "Criptó",
+      "Símbol": "Kr"
+    },
+    {
+      "Nom": "Rubidi",
+      "Símbol": "Rb"
+    },
+    {
+      "Nom": "Estronci",
+      "Símbol": "Sr"
+    },
+    {
+      "Nom": "Itri",
+      "Símbol": "Y"
+    },
+    {
+      "Nom": "Zirconi",
+      "Símbol": "Zr"
+    },
+    {
+      "Nom": "Niobi",
+      "Símbol": "Nb"
+    },
+    {
+      "Nom": "Molibdè",
+      "Símbol": "Mo"
+    },
+    {
+      "Nom": "Tecneci",
+      "Símbol": "Tc"
+    },
+    {
+      "Nom": "Ruteni",
+      "Símbol": "Ru"
+    },
+    {
+      "Nom": "Rodi",
+      "Símbol": "Rh"
+    },
+    {
+      "Nom": "Pal·ladi",
+      "Símbol": "Pd"
+    },
+    {
+      "Nom": "Argent",
+      "Símbol": "Ag"
+    },
+    {
+      "Nom": "Cadmi",
+      "Símbol": "Cd"
+    },
+    {
+      "Nom": "Indi",
+      "Símbol": "In"
+    },
+    {
+      "Nom": "Estany",
+      "Símbol": "Sn"
+    },
+    {
+      "Nom": "Antimoni",
+      "Símbol": "Sb"
+    },
+    {
+      "Nom": "Tel·luri",
+      "Símbol": "Te"
+    },
+    {
+      "Nom": "Iode",
+      "Símbol": "I"
+    },
+    {
+      "Nom": "Xenó",
+      "Símbol": "Xe"
+    },
+    {
+      "Nom": "Cesi",
+      "Símbol": "Cs"
+    },
+    {
+      "Nom": "Bari",
+      "Símbol": "Ba"
+    },
+    {
+      "Nom": "Lantani",
+      "Símbol": "La"
+    },
+    {
+      "Nom": "Ceri",
+      "Símbol": "Ce"
+    },
+    {
+      "Nom": "Praseodimi",
+      "Símbol": "Pr"
+    },
+    {
+      "Nom": "Neodimi",
+      "Símbol": "Nd"
+    },
+    {
+      "Nom": "Prometi",
+      "Símbol": "Pm"
+    },
+    {
+      "Nom": "Samari",
+      "Símbol": "Sm"
+    },
+    {
+      "Nom": "Europi",
+      "Símbol": "Eu"
+    },
+    {
+      "Nom": "Gadolini",
+      "Símbol": "Gd"
+    },
+    {
+      "Nom": "Terbi",
+      "Símbol": "Tb"
+    },
+    {
+      "Nom": "Disprosi",
+      "Símbol": "Dy"
+    },
+    {
+      "Nom": "Holmi",
+      "Símbol": "Ho"
+    },
+    {
+      "Nom": "Erbi",
+      "Símbol": "Er"
+    },
+    {
+      "Nom": "Tuli",
+      "Símbol": "Tm"
+    },
+    {
+      "Nom": "Iterbi",
+      "Símbol": "Yb"
+    },
+    {
+      "Nom": "Luteci",
+      "Símbol": "Lu"
+    },
+    {
+      "Nom": "Hafni",
+      "Símbol": "Hf"
+    },
+    {
+      "Nom": "Tàntal",
+      "Símbol": "Ta"
+    },
+    {
+      "Nom": "Tungstè",
+      "Símbol": "W"
+    },
+    {
+      "Nom": "Reni",
+      "Símbol": "Re"
+    },
+    {
+      "Nom": "Osmi",
+      "Símbol": "Os"
+    },
+    {
+      "Nom": "Iridi",
+      "Símbol": "Ir"
+    },
+    {
+      "Nom": "Platí",
+      "Símbol": "Pt"
+    },
+    {
+      "Nom": "Or",
+      "Símbol": "Au"
+    },
+    {
+      "Nom": "Mercuri",
+      "Símbol": "Hg"
+    },
+    {
+      "Nom": "Tal·li",
+      "Símbol": "Tl"
+    },
+    {
+      "Nom": "Plom",
+      "Símbol": "Pb"
+    },
+    {
+      "Nom": "Bismut",
+      "Símbol": "Bi"
+    },
+    {
+      "Nom": "Poloni",
+      "Símbol": "Po"
+    },
+    {
+      "Nom": "Àstat",
+      "Símbol": "At"
+    },
+    {
+      "Nom": "Radó",
+      "Símbol": "Rn"
+    },
+    {
+      "Nom": "Franci",
+      "Símbol": "Fr"
+    },
+    {
+      "Nom": "Radi",
+      "Símbol": "Ra"
+    },
+    {
+      "Nom": "Actini",
+      "Símbol": "Ac"
+    },
+    {
+      "Nom": "Tori",
+      "Símbol": "Th"
+    },
+    {
+      "Nom": "Protoactini",
+      "Símbol": "Pa"
+    },
+    {
+      "Nom": "Urani",
+      "Símbol": "U"
+    },
+    {
+      "Nom": "Neptuni",
+      "Símbol": "Np"
+    },
+    {
+      "Nom": "Plutoni",
+      "Símbol": "Pu"
+    },
+    {
+      "Nom": "Americi",
+      "Símbol": "Am"
+    },
+    {
+      "Nom": "Curi",
+      "Símbol": "Cm"
+    },
+    {
+      "Nom": "Berkeli",
+      "Símbol": "Bk"
+    },
+    {
+      "Nom": "Californi",
+      "Símbol": "Cf"
+    },
+    {
+      "Nom": "Einsteini",
+      "Símbol": "Es"
+    },
+    {
+      "Nom": "Fermi",
+      "Símbol": "Fm"
+    },
+    {
+      "Nom": "Mendelevi",
+      "Símbol": "Md"
+    },
+    {
+      "Nom": "Nobeli",
+      "Símbol": "No"
+    },
+    {
+      "Nom": "Lawrenci",
+      "Símbol": "Lr"
+    },
+    {
+      "Nom": "Rutherfordi",
+      "Símbol": "Rf"
+    },
+    {
+      "Nom": "Dubni",
+      "Símbol": "Db"
+    },
+    {
+      "Nom": "Seaborgi",
+      "Símbol": "Sg"
+    },
+    {
+      "Nom": "Bohri",
+      "Símbol": "Bh"
+    },
+    {
+      "Nom": "Hassi",
+      "Símbol": "Hs"
+    },
+    {
+      "Nom": "Meitneri",
+      "Símbol": "Mt"
+    },
+    {
+      "Nom": "Darmstadti",
+      "Símbol": "Ds"
+    },
+    {
+      "Nom": "Roentgeni",
+      "Símbol": "Rg"
+    },
+    {
+      "Nom": "Copernici",
+      "Símbol": "Cn"
+    },
+    {
+      "Nom": "Nihoni",
+      "Símbol": "Nh"
+    },
+    {
+      "Nom": "Flerovi",
+      "Símbol": "Fl"
+    },
+    {
+      "Nom": "Moscovi",
+      "Símbol": "Mc"
+    },
+    {
+      "Nom": "Livermori",
+      "Símbol": "Lv"
+    },
+    {
+      "Nom": "Tennes",
+      "Símbol": "Ts"
+    },
+    {
+      "Nom": "Oganessó",
+      "Símbol": "Og"
+    }
+  ]
